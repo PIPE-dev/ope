@@ -1,0 +1,164 @@
+body{
+    background-color:rgb(45, 45, 53);;
+    font-style: oblique;
+    font-size: large;
+    margin: 0px;
+    padding: 0px;
+ }
+
+.UP {
+    background-image: url(CREAT5.jpg) ;
+    color: black;
+    overflow: hidden;
+}
+
+header p {
+    margin-top: 0px;
+    padding-bottom: 50px;
+    color: white;
+    
+ }
+header h1 {
+    color: cornflowerblue;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+
+header li {
+    flex-grow: 1;
+    display: inline-block;
+    margin-right: 15px;
+    margin-left: 20px ;
+}
+
+
+
+#tobi{
+    margin-top: 0px;
+    float: right;
+    padding-top: 0px;
+    position: absolute;
+    top: 12px;
+    left: 1000px;
+
+}
+
+header a{
+    padding-bottom: 0px;
+    padding-top: 0px;
+    color: whitesmoke;
+   
+}
+
+header .sola a {
+    color: tomato;
+}
+
+header a:hover {
+    color: tomato;
+    font-weight: bold;
+}
+
+header h4{
+    margin-left: 30px;
+    margin-top: 0px;
+    border: 0px;
+}
+
+#ope{
+    color: orange;
+}
+#pipe{
+    color: springgreen;
+}
+section h4{
+    color: rgb(255, 255, 255);
+
+}
+
+#suko{
+    background-color: rgb(90, 13, 126);
+    overflow: hidden;
+    font-style: inherit;
+    font-weight: lighter;
+    font-size: medium;
+    color: orange;
+}
+
+#RED{
+    color: red;
+}
+#GREEN{
+    color: springgreen;
+}
+#YELLOW{
+    color: yellow;
+}
+.boxes {
+    display: flex;
+    background-image: url(CREAT2.jpg) ;       
+}
+
+.box1 {
+    flex-basis: 40%;
+    overflow: hidden;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.box1 h3 {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#TEMITOPE{
+    font-size: large;
+    color: mintcream;
+    font-variant: small-caps
+}
+
+#JESU{
+    width: 200px;
+    height: 30px;
+    background-color: rgb(255, 115, 0);
+    margin-left: 270px;
+}
+
+.body {
+    background: url(CREAT5.jpg);
+    overflow: hidden;
+}
+
+footer h1{
+    flex-grow: initial;
+    color: lightsalmon;
+}
+
+footer h3{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

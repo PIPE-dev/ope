@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(45, 29, 56);
+    font-size: larger;
+    font-style: italic;
+}
+body h1{
+color: orangered;
+font-style: oblique;
+}
+body P{
+    font-size: large;
+    color: ivory;
+}
+section h4{
+    color: pink;
+    font-size: larger;
+}
+div h3{
+    color: springgreen;
+}
+
+.david  {
+    display: flex;
+    justify-content: center; 
+    padding-top: 0px;
+    margin-top: 0px;
+} 
+
+.box1{
+    border: 1px #ccc solid; 
+    padding: 10px; 
+    flex-basis: 30%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
